@@ -1,16 +1,11 @@
-### Hi there 👋
 
-<!--
-**DeukYeong/DeukYeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My name is __Deuk Yeong !__ 
+and
+Live in __South Korean !!!__
+```Swift
+print("Nice To Meet you! 🎉 ")
+```
+I was born in __2004__ and __I am high School__
+I'm studing Swift. My Dream is to __swift Develpoer__
+######  (But im not good at English)
+this is My [__instagram__](www.instagram.com/Deuk_04/)
